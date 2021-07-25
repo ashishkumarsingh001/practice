@@ -12,5 +12,7 @@ public class App
         System.out.println("updated");
         System.out.println("update from automation project");
         System.out.println("new branch update from automation project");
+        
+        System.out.println("abc");
     }
 }
